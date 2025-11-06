@@ -1,10 +1,10 @@
 {
   "statistical_data": {
-    "friends_num": 11,
-    "active_num": 6,
-    "error_num": 5,
-    "article_num": 30,
-    "last_updated_time": "2025-11-07 00:23:59"
+    "friends_num": 15,
+    "active_num": 9,
+    "error_num": 6,
+    "article_num": 40,
+    "last_updated_time": "2025-11-07 01:12:29"
   },
   "article_data": [
     {
@@ -18,6 +18,24 @@
     },
     {
       "floor": 2,
+      "title": "爸爸厨房：简单版糖炒栗子",
+      "created": "2025-11-06",
+      "updated": "2025-11-06",
+      "link": "https://www.jeffer.xyz/cid/3207.html",
+      "author": "从良未遂",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+    },
+    {
+      "floor": 3,
+      "title": "小红书“电子壁纸”生意0库存暴利玩法拆解",
+      "created": "2025-11-06",
+      "updated": "2025-11-06",
+      "link": "https://www.evan.xin/4130/",
+      "author": "Evan",
+      "avatar": "https://www.evan.xin/logo.png"
+    },
+    {
+      "floor": 4,
       "title": "服务器续费了",
       "created": "2025-11-04",
       "updated": "2025-11-04",
@@ -26,7 +44,25 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 3,
+      "floor": 5,
+      "title": "HK-1616 与 2222JP 最全成本-体验对比",
+      "created": "2025-11-04",
+      "updated": "2025-11-04",
+      "link": "https://www.evan.xin/4123/",
+      "author": "Evan",
+      "avatar": "https://www.evan.xin/logo.png"
+    },
+    {
+      "floor": 6,
+      "title": "内容创作者效率神器：AI视频摘要工具TLDW初体验",
+      "created": "2025-11-03",
+      "updated": "2025-11-03",
+      "link": "https://www.evan.xin/4112/",
+      "author": "Evan",
+      "avatar": "https://www.evan.xin/logo.png"
+    },
+    {
+      "floor": 7,
       "title": "开源Bilibili播放器插件",
       "created": "2025-11-01",
       "updated": "2025-11-01",
@@ -35,7 +71,7 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 4,
+      "floor": 8,
       "title": "折腾一个Typecho 360全景插件",
       "created": "2025-10-30",
       "updated": "2025-10-30",
@@ -44,7 +80,7 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 5,
+      "floor": 9,
       "title": "3I/ATLAS到底是什么",
       "created": "2025-10-29",
       "updated": "2025-10-29",
@@ -53,16 +89,7 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 6,
-      "title": "关于Windows11激活",
-      "created": "2025-10-27",
-      "updated": "2025-10-27",
-      "link": "https://heson.me/dowhat/49.html",
-      "author": "黑石博客",
-      "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-    },
-    {
-      "floor": 7,
+      "floor": 10,
       "title": "周末随笔",
       "created": "2025-10-27",
       "updated": "2025-10-27",
@@ -71,7 +98,25 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 8,
+      "floor": 11,
+      "title": "关于Windows11激活",
+      "created": "2025-10-27",
+      "updated": "2025-10-27",
+      "link": "https://heson.me/dowhat/49.html",
+      "author": "黑石博客",
+      "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+    },
+    {
+      "floor": 12,
+      "title": "当极客开始浪漫：我把网站写进了NFC冰箱贴里",
+      "created": "2025-10-26",
+      "updated": "2025-10-26",
+      "link": "https://www.evan.xin/4089/",
+      "author": "Evan",
+      "avatar": "https://www.evan.xin/logo.png"
+    },
+    {
+      "floor": 13,
       "title": "吃迟姐姐",
       "created": "2025-10-24",
       "updated": "2025-10-24",
@@ -80,7 +125,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 9,
+      "floor": 14,
       "title": "使用GitHub Action定时抓取RSS",
       "created": "2025-10-24",
       "updated": "2025-10-24",
@@ -89,7 +134,7 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 10,
+      "floor": 15,
       "title": "前往长沙",
       "created": "2025-10-23",
       "updated": "2025-10-23",
@@ -98,7 +143,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 11,
+      "floor": 16,
       "title": "像猫一样的风",
       "created": "2025-10-23",
       "updated": "2025-10-23",
@@ -107,7 +152,7 @@
       "avatar": "https://jame.work/favicon.ico"
     },
     {
-      "floor": 12,
+      "floor": 17,
       "title": "返校听课",
       "created": "2025-10-22",
       "updated": "2025-10-22",
@@ -116,7 +161,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 13,
+      "floor": 18,
       "title": "给Typecho增加文章置顶功能",
       "created": "2025-10-22",
       "updated": "2025-10-22",
@@ -125,7 +170,16 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 14,
+      "floor": 19,
+      "title": "使用工具为博客做一个体检 看看可以得几分？",
+      "created": "2025-10-22",
+      "updated": "2025-10-22",
+      "link": "https://www.jeffer.xyz/cid/3188.html",
+      "author": "从良未遂",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+    },
+    {
+      "floor": 20,
       "title": "采购",
       "created": "2025-10-21",
       "updated": "2025-10-21",
@@ -134,7 +188,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 15,
+      "floor": 21,
       "title": "吃学弟和派派",
       "created": "2025-10-20",
       "updated": "2025-10-20",
@@ -143,7 +197,16 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 16,
+      "floor": 22,
+      "title": "何以为我 - Being Leads Doing.",
+      "created": "2025-10-20",
+      "updated": "2025-10-20",
+      "link": "https://www.ihewro.com/archives/1376/",
+      "author": "友人C",
+      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+    },
+    {
+      "floor": 23,
       "title": "到达北京",
       "created": "2025-10-19",
       "updated": "2025-10-19",
@@ -152,7 +215,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 17,
+      "floor": 24,
       "title": "Typecho非插件实现文章相册功能",
       "created": "2025-10-19",
       "updated": "2025-10-19",
@@ -161,7 +224,7 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 18,
+      "floor": 25,
       "title": "暮色逐渐褪去，天已经黑了。过了夏季，夜晚...",
       "created": "2025-10-19",
       "updated": "2025-10-19",
@@ -170,7 +233,7 @@
       "avatar": "https://jame.work/favicon.ico"
     },
     {
-      "floor": 19,
+      "floor": 26,
       "title": "创新型倒时差",
       "created": "2025-10-18",
       "updated": "2025-10-18",
@@ -179,7 +242,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 20,
+      "floor": 27,
       "title": "完成培训",
       "created": "2025-10-17",
       "updated": "2025-10-17",
@@ -188,7 +251,25 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 21,
+      "floor": 28,
+      "title": "喜提浓密黑发 萎靡不振恢复好多",
+      "created": "2025-10-17",
+      "updated": "2025-10-17",
+      "link": "https://www.jeffer.xyz/cid/3172.html",
+      "author": "从良未遂",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+    },
+    {
+      "floor": 29,
+      "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+      "created": "2025-10-17",
+      "updated": "2025-10-17",
+      "link": "https://www.jeffer.xyz/cid/3169.html",
+      "author": "从良未遂",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+    },
+    {
+      "floor": 30,
       "title": "还是培训",
       "created": "2025-10-16",
       "updated": "2025-10-16",
@@ -197,7 +278,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 22,
+      "floor": 31,
       "title": "继续培训",
       "created": "2025-10-15",
       "updated": "2025-10-15",
@@ -206,7 +287,16 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 23,
+      "floor": 32,
+      "title": "删除 EvanNav 6.3.1 加载页面教程",
+      "created": "2025-10-15",
+      "updated": "2025-10-15",
+      "link": "https://www.evan.xin/4074/",
+      "author": "Evan",
+      "avatar": "https://www.evan.xin/logo.png"
+    },
+    {
+      "floor": 33,
       "title": "狂风暴雨逐渐停止后的第二天正午，天空一改...",
       "created": "2025-10-12",
       "updated": "2025-10-12",
@@ -215,7 +305,7 @@
       "avatar": "https://jame.work/favicon.ico"
     },
     {
-      "floor": 24,
+      "floor": 34,
       "title": "记录一次memo的调用",
       "created": "2025-10-10",
       "updated": "2025-10-10",
@@ -224,7 +314,7 @@
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
     },
     {
-      "floor": 25,
+      "floor": 35,
       "title": "折腾了几个插件",
       "created": "2025-10-09",
       "updated": "2025-10-09",
@@ -233,7 +323,7 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 26,
+      "floor": 36,
       "title": "我一路上问他关于摄影的东西，光圈、快门、...",
       "created": "2025-10-06",
       "updated": "2025-10-06",
@@ -242,7 +332,7 @@
       "avatar": "https://jame.work/favicon.ico"
     },
     {
-      "floor": 27,
+      "floor": 37,
       "title": "在NAS上搭建私有云音乐",
       "created": "2025-09-26",
       "updated": "2025-09-26",
@@ -251,7 +341,7 @@
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
     },
     {
-      "floor": 28,
+      "floor": 38,
       "title": "天钡wtr pro 5825u上手体验",
       "created": "2025-09-23",
       "updated": "2025-09-23",
@@ -260,7 +350,7 @@
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
     },
     {
-      "floor": 29,
+      "floor": 39,
       "title": "深度思考：决定你命运的核心能力",
       "created": "2025-09-22",
       "updated": "2025-09-22",
@@ -269,7 +359,7 @@
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
     },
     {
-      "floor": 30,
+      "floor": 40,
       "title": "装修记——自装的150天",
       "created": "2025-09-11",
       "updated": "2025-09-11",
