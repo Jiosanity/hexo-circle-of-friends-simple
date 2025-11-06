@@ -30,7 +30,7 @@ LINK: [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: false,
+    enable: true,
     json_api_or_path: "",
     list: [
         # 示例1：
@@ -41,13 +41,13 @@ SETTINGS_FRIENDS_LINKS: {
         # 如果目标地址的后缀不在其中，就可以在这里添加
         # 比如 https://elizen.me/hello.xml ，填写：
         # ["elizen", "https://elizen.me/", "https://akilar.top/images/headimage.png", "hello.xml"]
-        # ["从良未遂", "https://www.jeffer.xyz/", "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"],
-        # ["Evan", "https://www.evan.xin/", "https://www.evan.xin/logo.png"],
-        # ["友人C", "https://www.ihewro.com", "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"],
+        ["从良未遂", "https://www.jeffer.xyz/", "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"],
+        ["Evan", "https://www.evan.xin/", "https://www.evan.xin/logo.png"],
+        ["友人C", "https://www.ihewro.com", "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"],
         # ["Wandai Blog", "https://twd2.me/", "https://twd2.me/smile_photo.jpg"],
         # ["MouT.me", "https://ghost.mout.me/", "https://ghost.mout.me/favicon.ico", "rss"], 
         # ["黑石博客", "https://heson.me/", "https://heson.me/favicon.ico"], 
-        # ["老孙博客", "https://www.imsun.org/", "https://cravatar.cn/avatar/14361cbdd724071a19e158bdf0aa8841?s=80&d=identicon"]
+        ["老孙博客", "https://www.imsun.org/", "https://cravatar.cn/avatar/14361cbdd724071a19e158bdf0aa8841?s=80&d=identicon"]
     ]
 }
 
@@ -67,7 +67,7 @@ BLOCK_SITE_REVERSE: false
 
 # 从每个主页中最多获取几篇文章，请设置一个正整数
 # 设置为0表示无限制
-MAX_POSTS_NUM:  20
+MAX_POSTS_NUM:  5
 
 # 如果要启用HTTP代理：
 # 对于github部署：添加secret
