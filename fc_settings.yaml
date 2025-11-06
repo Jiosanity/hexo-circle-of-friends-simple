@@ -45,9 +45,11 @@ SETTINGS_FRIENDS_LINKS: {
         ["Evan", "https://www.evan.xin/", "https://www.evan.xin/logo.png"],
         ["友人C", "https://www.ihewro.com", "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"],
         # ["Wandai Blog", "https://twd2.me/", "https://twd2.me/smile_photo.jpg"],
+        ["枋柚梓", "https://inkss.cn/", "https://static.inkss.cn/img/avatar.avif"],
+        ["SUUS", "https://suus.me/", "https://suus.me/icons/favicon.svg"],,
+        ["空白Koobai", "https://koobai.com/", "https://img.koobai.com/koobai.webp"],
         # ["MouT.me", "https://ghost.mout.me/", "https://ghost.mout.me/favicon.ico", "rss"], 
         # ["黑石博客", "https://heson.me/", "https://heson.me/favicon.ico"], 
-        ["老孙博客", "https://www.imsun.org/", "https://cravatar.cn/avatar/14361cbdd724071a19e158bdf0aa8841?s=80&d=identicon"]
     ]
 }
 
@@ -55,7 +57,8 @@ SETTINGS_FRIENDS_LINKS: {
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
      "https://q.chyfh.com/",
-     "https://bokehub.com/"
+     "https://bokehub.com/",
+     "https://jiaohuiming.cn",
 #    "https?://example.com/", # http或https
 #    https://example.com/, # 屏蔽 https://example.com/
 #    .*\.com,  # 含有.com的全部屏蔽
