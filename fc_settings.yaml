@@ -49,7 +49,15 @@ SETTINGS_FRIENDS_LINKS: {
         ["SUUS", "https://suus.me/", "https://suus.me/icons/favicon.svg", "atom.xml"],
         ["空白Koobai", "https://koobai.com/", "https://img.koobai.com/koobai.webp"],
         ["MouT.me", "https://ghost.mout.me/", "https://ghost.mout.me/favicon.ico", "rss"], 
-        # ["黑石博客", "https://heson.me/", "https://heson.me/favicon.ico"], 
+        ["游钓四方", "https://blog.lhasa.icu/", "https://blog.lhasa.icu/favicon.svg"],
+        ["雨帆", "https://yufan.me/", "https://weavatar.com/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"],
+        ["子夜松声", "https://xyzbz.cn/", "https://bu.dusays.com/2023/07/25/64bf920527086.png"],
+        ["灰常记忆", "https://bestcherish.com/", "https://bestcherish.com/image/favicon.svg"],
+        ["安静角落", "https://wuziya.com/", "https://weavatar.com/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"],
+        ["Jack's Space", "https://veryjack.com/", "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"],
+        ["故事的程序猿", "https://blog.lichenghao.cn/", "https://blog.lichenghao.cn/avatar.svg"],
+        ["小白大学渣", "https://www.baihub.cn/", "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"],
+        ["旺东自留地", "https://wang618.cn/", "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"],
     ]
 }
 
@@ -79,7 +87,7 @@ MAX_POSTS_NUM:  5
 # 名称为PROXY，值为[IP]:[端口]或代理地址，比如：192.168.1.106:8080
 
 # 过期文章清除（天）
-OUTDATE_CLEAN: 60
+OUTDATE_CLEAN: 180
 
 # 定时任务，每天0点、6点、12点、18点、21点执行一次
 CRON: "0 0,6,12,18,21 * * *"
