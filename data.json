@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 29,
-    "active_num": 19,
-    "error_num": 10,
+    "active_num": 20,
+    "error_num": 9,
     "article_num": 119,
-    "last_updated_time": "2025-11-13 09:29:00"
+    "last_updated_time": "2025-11-13 14:31:20"
   },
   "article_data": [
     {
@@ -63,15 +63,6 @@
     },
     {
       "floor": 7,
-      "title": "那些年，我看过的电影",
-      "created": "2025-11-08",
-      "updated": "2025-11-08",
-      "link": "https://veryjack.com/life/movies_i_watched/",
-      "author": "Jack's Space",
-      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
-    },
-    {
-      "floor": 8,
       "title": "精美下午茶",
       "created": "2025-11-08",
       "updated": "2025-11-08",
@@ -80,7 +71,7 @@
       "avatar": "https://twd2.me/smile_photo.jpg"
     },
     {
-      "floor": 9,
+      "floor": 8,
       "title": "Typecho如何实现评论无限嵌套",
       "created": "2025-11-08",
       "updated": "2025-11-08",
@@ -89,13 +80,22 @@
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
     },
     {
-      "floor": 10,
+      "floor": 9,
       "title": "成为 Chromium Committer 我的个人经历",
       "created": "2025-11-08",
       "updated": "2025-11-08",
       "link": "https://www.ihewro.com/archives/1377/",
       "author": "友人C",
       "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+    },
+    {
+      "floor": 10,
+      "title": "那些年，我看过的电影",
+      "created": "2025-11-08",
+      "updated": "2025-11-08",
+      "link": "https://veryjack.com/life/movies_i_watched/",
+      "author": "Jack's Space",
+      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
     },
     {
       "floor": 11,
@@ -387,21 +387,21 @@
     },
     {
       "floor": 43,
-      "title": "影视飓风推出专属摄像 App —「飓风相机」",
-      "created": "2025-10-28",
-      "updated": "2025-10-28",
-      "link": "https://veryjack.com/technique/storm_app/",
-      "author": "Jack's Space",
-      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
-    },
-    {
-      "floor": 44,
       "title": "秋游海棠园",
       "created": "2025-10-28",
       "updated": "2025-10-28",
       "link": "https://xyzbz.cn/archives/1461/",
       "author": "子夜松声",
       "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+    },
+    {
+      "floor": 44,
+      "title": "影视飓风推出专属摄像 App —「飓风相机」",
+      "created": "2025-10-28",
+      "updated": "2025-10-28",
+      "link": "https://veryjack.com/technique/storm_app/",
+      "author": "Jack's Space",
+      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
     },
     {
       "floor": 45,
@@ -594,15 +594,6 @@
     },
     {
       "floor": 66,
-      "title": "Hey Siri，呼叫贾维斯",
-      "created": "2025-10-20",
-      "updated": "2025-10-20",
-      "link": "https://veryjack.com/technique/hey_siri/",
-      "author": "Jack's Space",
-      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
-    },
-    {
-      "floor": 67,
       "title": "何以为我 - Being Leads Doing.",
       "created": "2025-10-20",
       "updated": "2025-10-20",
@@ -611,13 +602,22 @@
       "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
     },
     {
-      "floor": 68,
+      "floor": 67,
       "title": "今年这里再也拍不到这种照片了",
       "created": "2025-10-20",
       "updated": "2025-10-20",
       "link": "https://wuziya.com/273.html",
       "author": "安静角落",
       "avatar": "https://weavatar.com/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+    },
+    {
+      "floor": 68,
+      "title": "Hey Siri，呼叫贾维斯",
+      "created": "2025-10-20",
+      "updated": "2025-10-20",
+      "link": "https://veryjack.com/technique/hey_siri/",
+      "author": "Jack's Space",
+      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
     },
     {
       "floor": 69,
